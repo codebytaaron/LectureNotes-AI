@@ -1,31 +1,26 @@
-# LectureNotes AI 📝
+# LectureNotes AI
 
-A simple AI tool that turns lecture input into clean, organized notes.
+LectureNotes AI is an AI-powered tool that converts raw lecture input into clean, structured notes.
 
-## Features
-- Organizes messy lecture text
-- Highlights key concepts
-- Improves memorization
-- Designed for students
+## Overview
 
-## How to Use
-1. Clone the repo
-2. Install dependencies:
-   pip install -r requirements.txt
-3. Add your OpenAI API key in main.py
-4. Run:
-   python main.py
-5. Paste lecture text
-6. Type END when done
+The project processes lecture text and organizes it into clear sections to improve review and retention.
 
-## Output Format
-- Key Concepts
-- Definitions
-- Important Details
-- Short Summary
+## Usage Notice
 
-## Future Improvements
-- Save notes to file
-- Flashcard generator
-- Quiz mode
-- Web interface
+This repository is public for visibility and reference only.
+
+Please **do not use, copy, modify, or redistribute this project without contacting me first**.
+
+If you are interested in using the tool, building on it, or collaborating, reach out via the link in my bio so I can assist and approve proper usage.
+
+## How It Works
+
+- Accepts lecture input
+- Processes content using AI
+- Outputs structured notes in a consistent format
+
+## Requirements
+
+- Python
+- OpenAI API key
